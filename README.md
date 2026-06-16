@@ -1,4 +1,4 @@
-<p align="center"> or <div align="center">
+<p align="center"> <div align="center">
 
 # $\color{purple}{\text{hi}}$
 
