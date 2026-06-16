@@ -1,8 +1,8 @@
 <p align="center"> <div align="center">
 
-## $\color{purple}{\text{▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄}}$
+### $\color{purple}{\text{▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄}}$
 
-# $\color{purple}{\text{hi}}$
+## $\color{purple}{\text{cross ⸝⸝ frisk ⸝⸝ betty }}$
 
 <!--
 **CROSSEDOUTDREAM/CROSSEDOUTDREAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
