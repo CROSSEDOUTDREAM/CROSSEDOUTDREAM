@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"> or <div align="center">
 
 # $\color{purple}{\text{hi}}$
 
